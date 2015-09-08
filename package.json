@@ -1,0 +1,20 @@
+{
+  "name": "SimpleHTTPServer",
+  "version": "1.0.0",
+  "description": "Very very simple http server configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntonioMA/simpleHTTPServer.git"
+  },
+  "author": "Antonio M. Amaya",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/AntonioMA/simpleHTTPServer/issues"
+  },
+  "homepage": "https://github.com/AntonioMA/simpleHTTPServer",
+  "devDependencies": {
+    "promise": "~7.0.0",
+    "mime-types": "~2.0.0"
+  }
+}
