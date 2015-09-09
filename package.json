@@ -1,6 +1,6 @@
 {
   "name": "SimpleHTTPServer",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "Very very simple http server configuration",
   "main": "index.js",
   "repository": {
